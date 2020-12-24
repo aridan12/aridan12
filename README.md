@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Idan Arie!
 
 
-Information Systems 3rd year student (BSc) from the Academic College of Tel-Aviv Yaffo
+#### Information Systems 3rd year student (BSc) from the Academic College of Tel-Aviv Yaffo
 
 💻 I’m currently building a website for my college project using HTML, CSS, JS and PHP
 
