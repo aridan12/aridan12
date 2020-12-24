@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Idan Arie!
+## Hi there 👋 My name is Idan Arie!
+
 
 Information Systems 3rd year student (BSc) from the Academic College of Tel-Aviv Yaffo
 
@@ -8,7 +9,7 @@ Information Systems 3rd year student (BSc) from the Academic College of Tel-Aviv
 
 ⚡ I enjoy learning and listening to podcasts of entrepreneurship, product management and more
 
-💬 You can reach me at aridan12@gmail.com
+💬 You can reach me at [aridan12@gmail.com](mailto:aridan12@gmail.com)
 
 
 <!--
